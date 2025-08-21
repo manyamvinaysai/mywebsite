@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://heartfelt-genie-365793.netlify.app/sitemap.xml
+Sitemap: https://gilded-melba-2b49eb.netlify.app/sitemap.xml
