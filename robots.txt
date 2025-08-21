@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://heartfelt-genie-365793.netlify.app/sitemap.xml
