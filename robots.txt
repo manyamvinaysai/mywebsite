@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://zingy-quokka-23f543.netlify.app/sitemap.xml
+
