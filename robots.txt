@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://zingy-quokka-23f543.netlify.app/sitemap.xml
 
+Sitemap: https://heartfelt-genie-365793.netlify.app/sitemap.xml
